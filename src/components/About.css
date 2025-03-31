@@ -17,4 +17,15 @@
     color:#2597b4;
     font-size: 24px;
   }
+
+  .pp{
+    display: block; /* Changed from flex to block for img elements */
+    border-radius: 50%; /* Changed from 80% to 50% for perfect circle */
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin: 0 auto; 
+    position: relative;
+   
+  }
   
