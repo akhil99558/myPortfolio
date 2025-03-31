@@ -1,0 +1,20 @@
+.Card {
+    background-color: #010101;
+    padding: 20px;
+    border-radius: 12px;
+    
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+    width: 80%;
+    margin: 40px auto;
+  }
+  .title-line{
+    text-align: center;
+    color:#429786;
+    font-size: 34px;
+  }
+  .AboutP {
+    text-align: center;
+    color:#2597b4;
+    font-size: 24px;
+  }
+  
