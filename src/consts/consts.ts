@@ -1,5 +1,4 @@
 import { ExperiencesType } from "../types/experience";
-
 const experiences : ExperiencesType = [
     {
         period:"Jan 2025 - Present",
@@ -13,5 +12,6 @@ const experiences : ExperiencesType = [
         ]
     }
 ]
+
 
 export default experiences;
